@@ -52,9 +52,6 @@ gehe in den docs Ordner und dort in die Benutzerhandbuch.md Datei
 
 - NaN bei Backpropagation mit großen Lernraten
 
-## License
-GNU General Public License 2 or later (GPL-2.0)
-
 ## Projektstatus
 Das Projekt wird nicht mehr vom Entwicklerteam aktiv weiterentwickelt. Bei Interesse kann natürlich jederzeit selber weiterentwickelt werden. Wir freuen uns über jede Weiterentwicklung!
 
